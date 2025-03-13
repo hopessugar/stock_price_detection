@@ -1,4 +1,5 @@
-Stock Price Prediction Model 
+##Stock Price Prediction Model##
+
 Overview
 This project demonstrates a simple machine learning model for predicting stock prices using Linear Regression. 
 The model is trained on historical stock price data (e.g., Apple Inc. - AAPL) and can be used to predict future stock prices. 
